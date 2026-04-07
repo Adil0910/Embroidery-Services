@@ -109,9 +109,9 @@
     align-items: flex-start;
 }
 img.about-img {
-    width: 58%;
-    border-radius: 22px 0px 0px 42px;
-    height: 67vh;
+    width: 83%;
+    border-radius: 1px 0px 0px 30px;
+    height: auto;
 }
 button.lang-btn {
     padding-block: 24px;
