@@ -17,7 +17,7 @@ function Hero() {
         <h3>{text[lang].subtitle}</h3>
         <button  onClick={() =>
     window.open(
-      "https://wa.me/91XXXXXXXXXX?text=Hello%20I%20need%20embroidery%20service",
+      "https://wa.me/918090280134?text=Hello%20I%20need%20embroidery%20service",
       "_blank"
     )
   }>{text[lang].button}</button>
