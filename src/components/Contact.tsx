@@ -32,6 +32,11 @@ function Contact() {
             {contactText[lang].call}
           </button>
         </a>
+         <a href="tel:9163414764">
+          <button className="call-btn">
+            {contactText[lang].calln}
+          </button>
+        </a>
          <button className="btn-c" onClick={toggleLanguage}>
         {lang === "en" ? "বাংলা" : "English"}
       </button>

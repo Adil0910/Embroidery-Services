@@ -210,7 +210,11 @@ button.btn-c {
     margin-inline: 18px;
     color: white;
 }
-
+.contact-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
 
 /* Responsive */
 @media (max-width: 768px) {
@@ -273,5 +277,10 @@ img.about-img {
     gap: 24px;
     align-items: flex-start;
     justify-content: center;
+}
+.contact-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
 }
 }

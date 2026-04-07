@@ -21,6 +21,12 @@ function Hero() {
       "_blank"
     )
   }>{text[lang].button}</button>
+   <button  onClick={() =>
+    window.open(
+      "https://wa.me/919163414764?text=Hello%20I%20need%20embroidery%20service",
+      "_blank"
+    )
+  }>{text[lang].buttonn}</button>
 
         <button className="lang-btn" onClick={toggleLanguage}>
           {lang === "en" ? "বাংলা" : "English"}
