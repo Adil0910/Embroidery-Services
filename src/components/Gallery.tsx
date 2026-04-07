@@ -2,7 +2,7 @@ import React from "react";
 
 const images = [
   "/img/image1.jfif",
-  "/img/image2.jfif",
+  "/img/hii.jfif",
   "/img/image3.jfif",
   "/img/image4.jfif",
   "/img/image5.jfif",
