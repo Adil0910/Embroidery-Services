@@ -93,6 +93,7 @@
 }
 .ab-1 {
     height: 100vh;
+    gap: 13px;
     width: 50%;
     display: flex;
     justify-content: center;
@@ -109,9 +110,22 @@
     align-items: flex-start;
 }
 img.about-img {
-    width: 83%;
+    width: 90%;
     border-radius: 1px 0px 0px 30px;
-    height: auto;
+    height: 53vh;
+}
+
+.abouth3 {
+    font-size: 11px;
+    letter-spacing: 2px;
+    margin-top: 17px;
+}
+.imagebox {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 button.lang-btn {
     padding-block: 24px;
@@ -247,16 +261,16 @@ button.btn-c {
     flex-direction: column;
 }
 .ab-1 {
-    height: 88vh;
+    height: 60vh;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 img.about-img {
-    width: 94%;
+    width: 100%;
     border-radius: 22px 0px 0px 42px;
-    height: 67vh;
+    height: 35vh;
 }
 .ab-2 {
     height: auto;

@@ -12,7 +12,14 @@ function About() {
   return (
     <div className='about-main'>
       <div className='ab-1'>
+        <div className='imagebox'>
         <img className='about-img' src='img/engineer.jpeg'/>
+        <h3 className='abouth3'>Eng. Zafrul Hasan</h3>
+        </div>
+        <div className='imagebox'>
+        <img className='about-img' src='img/engineer2.jpeg'/>
+        <h3 className='abouth3'>Eng. Md Saanu</h3>
+        </div>
       </div>
       <div className='ab-2'>
         <h3 className='text-h3'>{text[lang].about}</h3>
