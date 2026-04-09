@@ -13,12 +13,14 @@ function About() {
     <div className='about-main'>
       <div className='ab-1'>
         <div className='imagebox'>
+        <h1 className='headersabout'><span className='headp'>Par</span>tners</h1>
+
         <img className='about-img' src='img/engineer.jpeg'/>
-        <h3 className='abouth3'>Eng. Zafrul Hasan</h3>
+        <h3 className='abouth3'>Zafrul Hasan</h3>
         </div>
         <div className='imagebox'>
         <img className='about-img' src='img/engineer2.jpeg'/>
-        <h3 className='abouth3'>Eng. Mohammad Shandar</h3>
+        <h3 className='abouth3'>Mohammad Shandar</h3>
         </div>
       </div>
       <div className='ab-2'>
