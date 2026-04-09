@@ -18,7 +18,7 @@ function About() {
         </div>
         <div className='imagebox'>
         <img className='about-img' src='img/engineer2.jpeg'/>
-        <h3 className='abouth3'>Eng. MD Shandaar</h3>
+        <h3 className='abouth3'>Eng. Mohammad Shandar</h3>
         </div>
       </div>
       <div className='ab-2'>
